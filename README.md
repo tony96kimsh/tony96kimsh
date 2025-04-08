@@ -20,7 +20,7 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 | 🔍 QA & 협업 경험 | ISTQB CTFL, JIRA 테스트 실무 |
 | 🎨 디자인 · 마크업 | 웹 퍼블리셔 및 UI 디자인 다수 [포트폴리오](https://github.com/tony96kimsh/portfolio_v1.0)|
 | 📝 블로그 | [Velog](https://velog.io/@tonyisback) |
-| 💻 포트폴리오 | [노션 링크](https://www.notion.so/QA-19af398452c380b3b02bf292ddf0498e?pvs=21) |
+| 💻 포트폴리오 | [Notion 링크](https://www.notion.so/QA-19af398452c380b3b02bf292ddf0498e?pvs=21) |
 
 ---
 
