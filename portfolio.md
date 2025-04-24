@@ -103,12 +103,13 @@
 
 링크
 
-- 🧑‍💻 [깃허브 코드 및 설명](url)
-- [🌐 사이트 바로가기](url)
+- 🧑‍💻 [깃허브 코드 및 설명](https://github.com/tony96kimsh/DrawAnyAnimal)
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/DrawAnyAnimal)
 
 기술 스택
 
-- **JavaScript** (Canvas API, Audio API, Fetch API), Tailwind CSS
+- JavaScript (Canvas API, Audio API, Fetch API)
+- Tailwind CSS
 
 프로젝트 개요
 
@@ -131,7 +132,7 @@
 링크
 
 - [🧑‍💻 깃허브 코드 및 설명](https://github.com/tony96kimsh/muffler)
-- [🌐 구현 사이트 바로가기(Render)](https://muffler.onrender.com/)
+- [🌐 사이트 바로가기](https://muffler.onrender.com/)
 
 기술 스택
 
@@ -160,7 +161,7 @@
 링크
 
 - 🧑‍💻 [깃허브 코드 및 설명](https://github.com/tony96kimsh/philpick)
-- [🌐 사이트 바로가기 (Vercel)](https://philpick.vercel.app/)
+- [🌐 사이트 바로가기](https://philpick.vercel.app/)
 
 기술 스택
 
