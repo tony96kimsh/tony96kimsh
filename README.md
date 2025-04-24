@@ -31,59 +31,63 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 ### 🖥 Backend
 
-- **⚙️ Runtime**  
+**⚙️ Runtime**  
+
 ![Node.js
 ](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 
-- **🔗 API 연동 / 백엔드 통신**
+**🔗 API 연동 / 백엔드 통신**
+
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
 
 
 ### 🔤 Languages
 
-- **🧱 절차형**  
+**🧱 절차형**  
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff)
 
-- **🧩 객체지향**  
+**🧩 객체지향**  
+
 ![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 
-- **🐍 스크립트**  
+**🐍 스크립트**  
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
 
 ### 🧰 Tools & Platforms
 
-- **🧩 버전 관리 / 협업**  
+**🧩 버전 관리 / 협업**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 
-- **🚀 배포 플랫폼**  
+**🚀 배포 플랫폼**  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-
-- **🎨 Design**
+**🎨 Design**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
 
 
-✅ QA
-- ![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-blue?style=for-the-badge) ![Tested with JIRA](https://img.shields.io/badge/Tested%20With-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+### ✅ QA
+![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-blue?style=for-the-badge) ![Tested with JIRA](https://img.shields.io/badge/Tested%20With-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 
 
 ## 🌟 대표 프로젝트
 
-[🎨 내가 그린 그림](https://github.com/tony96kimsh/DrawAnyAnimal)
+### [🎨 내가 그린 그림](https://github.com/tony96kimsh/DrawAnyAnimal)
 - 강아지와 고양이 사진 API와 HTML5 CanvasAPI 통해 특색있는 그림판 앱 제공
 
 
-[📝 성훈의 방명록](https://github.com/tony96kimsh/muffler)
+### [📝 성훈의 방명록](https://github.com/tony96kimsh/muffler)
 - Node.JS 그룹 스터디(muffler) 과정과 개인 방명록 프로젝트
 - JSONBin + Render 기반 백엔드
 - EJS 템플릿 기반 UI 구성 
 
-[📚 PhilPick - 도서 검색 웹 앱](https://github.com/tony96kimsh/philpick)
+### [📚 PhilPick - 도서 검색 웹 앱](https://github.com/tony96kimsh/philpick)
 - 알라딘 Open API
 - 검색 UI & 실시간 렌더링 및 Vercel 배포
 
-[🎵 Effy Sound - 피아노 & 음 모니터 앱](https://github.com/tony96kimsh/piano)
+### [🎵 Effy Sound - 피아노 & 음 모니터 앱](https://github.com/tony96kimsh/piano)
 - JS 기반 웹 피아노
 - 키보드 단축키 기능
 - 음정 테스트 기능
@@ -91,8 +95,19 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 ## 📬 Contact
 
-| <img src="img/SungHoonKim.jpg" width="200"> | 👤 **김성훈** (96.03.26) <br> 📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com  <br> <br>🌐 [포트폴리오](./portfolio.md) |
-|--|--|
+<table style="width:100%;">
+  <tr>
+    <td style="width:30%; vertical-align: top;">
+      <img src="img/SungHoonKim.jpg" width="100%">
+    </td>
+    <td style="width:70%; vertical-align: top;">
+      <strong>👤 김성훈</strong> (96.03.26) <br>
+      📞 010-9626-6393<br>
+      ✉️ tony96kimsh@gmail.com<br><br>
+      🌐 <a href="./portfolio.md">포트폴리오</a>
+    </td>
+  </tr>
+</table>
 
 > **“동료의 성장은 곧 나의 성장”**  
 > 협업을 통해 함께 성장하는 개발자가 되겠습니다.
