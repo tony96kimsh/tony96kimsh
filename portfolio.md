@@ -89,12 +89,14 @@
 
 # 풀스택 프로젝트 “Glove project”
 
-![image.png](img/image.png)
+<img src="img/image.png" height="300px">
 
 소개
 
 - 글로브 프로젝트로 이름을 정한 이유는  QA 업무 경험 이후 프로젝트를 좀 더 완성도 있고 안정적으로 마무리 짓고 싶었습니다. 마치 야구에서 좋은 공이든 나쁜 공이든 포수의 글로브에 안정적으로 안착하듯이 완성하고 싶어서 지은 이름입니다. 또한 “glove”란 발음에서 오는 기분 좋은 바이브가 있었습니다.
 - 디자인과 설계로 많은 시간을 할애했던 이전 프로젝트와 달리 개발에 집중한 프로젝트입니다.
+
+<br>
 
 ## 내가 그린 그림 (그림판 웹앱)
 
@@ -123,6 +125,8 @@
     -   붓 색상, 굵기, 투명도, 지우개 기능 제공
 2. 고양이, 강아지 API를 통해 다양한 참고 동물 사진 제공
 3. Audio API를 통한 배경음악 기능 제공
+
+<br>
 
 ## 성훈의 방명록 (그룹 스터디 및 개인 프로젝트)
 
@@ -153,6 +157,8 @@
 - **Axios로 RESTful API 연동** 및 JSON 처리
 - **Render를 통한 서버 배포 & 접근 가능 웹서비스 구성**
 
+<br>
+
 ## 📚 PhilPick (알라딘 Open API 도서 검색 웹 앱)
 
 ![image.png](img/image%203.png) | ![image.png](img/image%204.png)
@@ -181,9 +187,11 @@
 - **Tailwind CSS로 다크모드 및 반응형 UI 구현**
 - 향후 API 확장 및 즐겨찾기 기능 추가 가능성을 고려하여 **모듈화된 구조**로 설계
 
+<br>
+
 ## Effy Sound (브라우저로 간편하게 어디서나 피아노 연주)
 
-![Screenshot 2025-03-10 at 8.17.31 PM.png](img/Screenshot_2025-03-10_at_8.17.31_PM.png)
+<img src="img/Screenshot_2025-03-10_at_8.17.31_PM.png" height="300px">
 
 링크
 
@@ -203,6 +211,8 @@
 
 - 클릭으로 연주 가능한 피아노 웹 사이트
 - 키보드 단축키 사용 가능
+
+<br>
 
 ## **한국잉! 영어 사전** (App Inventor를 통한 개발)
 
@@ -234,6 +244,8 @@
 - 직접 사전 웹사이트 제작 후 앱과 연결 예정 (25.02.20~)
 - Open AI를 활용한 개인화된 단어 설명 기능 추가 예정(25.02.21~)
 
+<br>
+
 # 프론트엔드 프로젝트 “meta-tony-test 1.0”
 
 ![image.png](img/image%206.png) | ![image.png](img/image%207.png)
@@ -253,6 +265,8 @@
 - photoshop, illustration
 - QA 실무(1년 8개월) - JIRA. Figma, Slack, Excel, Swagger(JSON)
 
+<br>
+
 ## 라이브러리 없이 jQuery를 통한 영동군청 카피 구현
 
 ![image.png](img/image%2010.png) | ![image.png](img/image%2011.png)
@@ -262,6 +276,8 @@
     - 4단 반응형 구현
     - 슬라이드 및 아이콘 루프 애니메이션 구현
     - 날씨 위젯 및 날짜 메소드 사용 ([블로그 포스팅](https://velog.io/@tonyisback/jQuery-%EB%82%A0%EC%A7%9C-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%A3%BC%EA%B0%84-%EB%8B%AC%EB%A0%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-date-method))
+
+<br>
 
 ## 라이브러리 없이 jQuery를 통한 KB은행 카피 구현
 
@@ -273,6 +289,8 @@
     - 슬라이드 및 애니메이션 구현
     - 스크롤에 따른 반응 구현
 - 제작일지 [blog](https://velog.io/@tonyisback/001day-%EC%9B%B9%EC%B9%B4%ED%94%BC-KB%EC%B9%B4%EB%93%9C) / [github](https://github.com/meta-tony-test1/copy_KB_bank.git)
+
+<br>
 
 # 디자인 및 퍼블리싱
 
