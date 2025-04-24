@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+
+    <!-- 오픈그래프 -->
+    <meta property="og:type" content="website"> <!-- 사이트 종류 -->
+        <!-- 사이트의 대표 url -->
+    <meta property="og:url" content="https://meta-tony-test1.github.io/portfolio_v1.0">
+    <meta property="og:title" content="meta-tony">
+    <meta property="og:image" content="../images/op.jpg">
+    <meta property="og:description" content="김성훈 포트폴리오입니다.">
+    <meta property="og:site_name" content="계획적이고 근면한 웹 퍼블리셔 김성훈입니다.">
+    <meta property="og:locale" content="ko_KR"> <!-- 사이트 언어 기본값 en_US -->
+        <!-- 이미지 사이즈 -->
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
+
+    <!--style-->
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="stylesheet" href="./prism.css">
+
+    <!--favicon-->
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="../images/favicon/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <link rel="apple-touch-icon" sizes="57x57" href="../images/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="../images/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../images/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="../images/favacon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../images/favacon//apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="../images/favacon//apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="../images/favacon//apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="../images/favacon//apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="../images/favacon//apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="../images/favacon//android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="../images/favacon//favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="../images/favacon//favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="../images/favacon//favicon-16x16.png">
+    <link rel="manifest" href="../images/favacon//manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="../images/favacon//ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+
+    <title>김성훈 | React CRUD</title>
+</head>
+
+<body>
+    <header>
+        <div class="wrap">
+            <h1 style="display:none">
+                <a href="index.html" >
+                    <img src="../images/logo.jpg" alt="meta-tony">
+                </a>
+            </h1>
+            <figure>
+                <a href="../portfolio.html">
+                    <img src="../images/back.png" alt="뒤로가기">
+                </a>
+            </figure>
+            <ul>
+                <li>
+                    <a href="../portfolio.html">포트폴리오</a>
+                </li>
+                <li>
+                    <a href="../introduce.html">자기소개</a>
+                </li>
+            </ul>
+        </div>
+    </header>
+    
+    <section class="mono">
+       <div class="wrap">
+        <h2>
+            <span>React</span> AJAX
+        </h2>
+        <h3>
+            <i>&nbsp;&nbsp; 로직과 데이터의 구별을 위한 React AJAX &nbsp;&nbsp;</i>
+        </h3>
+        <ul>
+            <li><a href="./build-ajax/index.html" target="_blank" ><i>실행</i></a></li>
+            <li><a href="https://meta-tony.tistory.com/61" target="_blank"><i>블로그 일지</i></a></li>
+        </ul>
+        <br/><br/>
+        <br>
+        <h3>실행 기능</h3>
+        <div style="background:url(../images/ajax-run.jpg) no-repeat center/100%; height: min(2018px, 168vw); margin:0 auto"></div>
+        <h2>function AJAX</h2>
+        <pre class="line-numbers"><code class="language-javascript">import React, { useState, useEffect } from &#x27;react&#x27;;
+
+          const Nav = (props) =&#x3E; {
+            const listTag = props.list.map((arr) =&#x3E; (
+              &#x3C;li key={arr.id}&#x3E;
+                &#x3C;a
+                  href={arr.id}
+                  data-id={arr.id}
+                  onClick={(e) =&#x3E; {
+                    e.preventDefault();
+                    props.onChangeId(e.target.dataset.id);
+                  }}
+                &#x3E;
+                  {arr.title}
+                &#x3C;/a&#x3E;
+              &#x3C;/li&#x3E;
+            ));
+          
+            return (
+              &#x3C;nav&#x3E;
+                &#x3C;ul&#x3E;{listTag}&#x3C;/ul&#x3E;
+              &#x3C;/nav&#x3E;
+            );
+          };
+          const Article = props =&#x3E; {
+              return(
+                  &#x3C;article&#x3E;
+                      &#x3C;h2&#x3E;{props.title}&#x3C;/h2&#x3E;
+                      {props.desc}
+                  &#x3C;/article&#x3E;
+              )
+          }
+          const NowLoading = () =&#x3E; {
+              return(
+                  &#x3C;div&#x3E;Now Loading ...&#x3C;/div&#x3E;
+              )
+          }
+          const FuncAJAX = () =&#x3E; {
+            const [contents, setContents] = useState({
+              item: { title: &#x27;Welcome&#x27;, desc: &#x27;Hello, React &#x26; Ajax&#x27; },
+              isLoading: false,
+            });
+            const [list, setList] = useState({
+              items: [],
+              isLoading: false,
+            });
+            const [nowId, setNowId] = useState()
+            const onChangeId = (e) =&#x3E; {setNowId(e)}
+            useEffect(() =&#x3E; {
+              setList({...list, isLoading:true})
+              fetch(&#x27;list.json&#x27;)
+                .then((result) =&#x3E; {
+                  return result.json();
+                })
+                .then((json) =&#x3E; {
+                  setList({
+                    items: json,
+                    isLoading: false,
+                  });
+                });
+            }, []);
+          
+            console.log(nowId)
+            
+            useEffect(()=&#x3E;{
+              if(nowId){
+              setContents({...contents, isLoading:true})
+              fetch(nowId + &#x22;.json&#x22;)
+                  .then((result) =&#x3E; {
+                      return result.json(); 
+                  })
+                  .then((json) =&#x3E; {
+                  setContents({
+                      item:{
+                          title:json.title, 
+                          desc:json.desc
+                      },
+                      isLoading:false
+                  })
+            })
+            }
+          },[nowId])
+            let ArticleTag = contents.isLoading ? &#x3C;NowLoading /&#x3E; : &#x3C;Article title={contents.item.title} desc={contents.item.desc}   /&#x3E;
+            let listTag = list.isLoading ? &#x3C;NowLoading /&#x3E; : &#x3C;Nav list={list.items} onChangeId={onChangeId} /&#x3E;
+            return (
+              &#x3C;div style={{ margin: 40, border: &#x27;1px solid #aaa&#x27;, padding: 40, paddingTop: 10 }}&#x3E;
+                  &#x3C;h1&#x3E;React AJAX - Hooks&#x3C;/h1&#x3E;
+                  {listTag}
+                  {ArticleTag}
+              &#x3C;/div&#x3E;
+            );
+          };
+          
+          export default FuncAJAX;
+          </code></pre>
+        <h2>Class AJAX</h2>
+        <pre class="line-numbers"><code class="language-javascript">import React, {Component} from &#x27;react&#x27;;
+
+          class Nav extends Component {
+            render(){
+              let listTag = [];
+              this.props.list.map(arr =&#x3E; {
+              return listTag.push(
+                  &#x3C;li key={arr.id}&#x3E;
+                  &#x3C;a href={arr.id} data-id={arr.id} onClick={function(e){
+                    e.preventDefault();
+                    this.props.onClick(e.target.dataset.id)
+                  }.bind(this)}&#x3E;
+                    {arr.title}
+                  &#x3C;/a&#x3E;
+                &#x3C;/li&#x3E;
+                )
+            })
+              return(
+                &#x3C;nav&#x3E;
+                  &#x3C;ul&#x3E;
+                    {listTag}
+                  &#x3C;/ul&#x3E;
+                &#x3C;/nav&#x3E;
+              )
+            }
+          }
+          class Article extends Component{
+            render(){
+              return(
+              &#x3C;article&#x3E;
+                &#x3C;h2&#x3E;{this.props.title}&#x3C;/h2&#x3E;
+                {this.props.desc}
+              &#x3C;/article&#x3E;
+              )}
+          }
+          class NowLoading extends Component{
+            render(){
+              return &#x3C;div&#x3E;Now Loading...&#x3C;/div&#x3E;
+            }
+          }
+          class App extends Component {
+            state = {
+              article:{
+                item:{title:&#x27;Welcome&#x27;, desc:&#x22;Hello, React &#x26; Ajax&#x22;},
+                isLoading:false
+              },
+              list:{
+              items:[],
+              isLoading:false
+              }
+            }
+          
+            componentDidMount() {
+              let newList = Object.assign({}, this.state.list, {isLoading:true});
+              this.setState({list:newList})
+              fetch(&#x27;list.json&#x27;)
+                .then(function(result){
+                  return result.json();
+                })
+                .then(function(json){
+                  this.setState({list:{
+                    items:json,
+                    isLoading:false
+                  }});
+                }.bind(this))
+            }
+            render(){
+              let NavTag = null;
+          if(this.state.list.isLoading){
+            NavTag =  &#x3C;NowLoading&#x3E;&#x3C;/NowLoading&#x3E;
+          }else {
+            NavTag =  &#x3C;Nav list={this.state.list.items} onClick={function(id){
+              //list contents AJAX
+              let newArticle = Object.assign({}, this.state.article, {isLoading:true})
+              this.setState({article:newArticle})
+              fetch(id + &#x22;.json&#x22;)
+                    .then(function(result){
+                      return result.json(); 
+                    })
+                  .then(function(json){
+                    this.setState({
+                      article:{
+                        item:{
+                          title:json.title, 
+                          desc:json.desc
+                      },
+                      isLoading:false
+                      }
+                    })
+                  }.bind(this))
+                }.bind(this)} /&#x3E;
+              }
+            let ArticleTag = null;
+            if(this.state.article.isLoading){
+              ArticleTag = &#x3C;NowLoading&#x3E;&#x3C;/NowLoading&#x3E;
+            }else{
+              ArticleTag = &#x3C;Article title={this.state.article.item.title} desc={this.state.article.item.desc} /&#x3E;
+            }
+            return (
+              &#x3C;div style={{margin:40, border:&#x22;1px solid #aaa&#x22;, padding:40,paddingTop:10}}&#x3E;
+                &#x3C;h1&#x3E;Web&#x3C;/h1&#x3E;
+                {NavTag}
+                {ArticleTag}
+              &#x3C;/div&#x3E;
+            )};
+          }
+          
+          export default App;</code></pre>
+        <h2>Class Lifecycle</h2>
+        <pre class="line-numbers"><code class="language-javascript">import React, { Component } from &#x27;react&#x27;
+          var classStyle = &#x27;color:red&#x27;;
+          
+          class ClassComp extends React.Component {
+            state = {
+              number:this.props.initNumber,
+              date:(new Date()).toString(),
+              life:&#x22;Render&#x22;
+            }
+            UNSAFE_componentWillMount(){
+              console.log(&#x27;%cclass =&#x3E; UNSAFE_componentWillMount&#x27;, classStyle)
+            }
+            componentDidMount(){
+              console.log(&#x27;%cclass =&#x3E; conponentDidMount&#x27;, classStyle)
+              
+            }
+            shouldComponentUpdate(nextProps, nextState){
+              console.log(&#x27;%cclass =&#x3E; shouldComponentUpdate&#x27;, classStyle)
+              return true
+            }
+            UNSAFE_componentWillUpdate(nextProps, nextState){
+              console.log(&#x27;%cclass =&#x3E; UNSAFE_componentWillUpdate&#x27;, classStyle)
+            }
+            componentDidUpdate(nextProps, nextState) {
+              console.log(&#x22;%cclass =&#x3E; componentDidUpdate&#x22;, classStyle)
+              
+            }
+            conponentWillUnmount(){
+              console.log(&#x22;%cclass =&#x3E; componentWillUnmount&#x22;, classStyle)
+              this.setState({life:&#x22;Update&#x22;})
+            }
+            render() {
+              console.log(&#x27;%cclass =&#x3E; render&#x27;, classStyle)
+              return(
+                &#x3C;div className=&#x22;container&#x22;&#x3E;
+                  &#x3C;h2 style={{color:&#x22;red&#x22;}}&#x3E;class style Component&#x3C;/h2&#x3E;
+                  &#x3C;p&#x3E;Class Life Cycle : {this.state.life}&#x3C;/p&#x3E;
+                  &#x3C;p&#x3E;Number: {this.state.number}&#x3C;/p&#x3E;
+                  &#x3C;p&#x3E;Time : {this.state.date}&#x3C;/p&#x3E;
+                  &#x3C;input type=&#x22;button&#x22; value=&#x22;random&#x22; onClick={function(){
+                    this.setState({number:Math.random()})
+                  }.bind(this)}/&#x3E;
+                  &#x3C;input type=&#x22;button&#x22; value=&#x22;date&#x22; onClick={function(){
+                    this.setState({date: (new Date()).toString()})
+                  }.bind(this)}/&#x3E;
+                &#x3C;/div&#x3E;
+              )
+            }
+          }
+          export default ClassComp;</code></pre>
+        <h2>Function Lifecycle</h2>
+        <pre class="line-numbers"><code class="language-javascript">import React,{useState, useEffect} from &#x27;react&#x27;;
+
+          var funcStyle = &#x27;color:blue&#x27;
+          var funcId = 0;
+          function FuncComp(props) {
+            const [number, setNumber] = useState(props.initNumber)
+            const [_date, setDate] = useState((new Date()).toString())
+          useEffect(function(){
+            console.log(&#x27;%cfunc =&#x3E; useEffect number (componentDidMount)&#x27;+(++funcId),funcStyle)
+            document.title = number;
+            return function(){ //clean up
+              console.log(&#x27;%cfunc =&#x3E; useEffect return (componentWillUnMount)&#x27;+(++funcId),funcStyle)
+            }
+          }, []);//&#xBE48;&#xBC30;&#xC5F4; 2&#xD68C;&#xB9CC; &#xC2E4;&#xD589;
+            //side Effect-&#xB80C;&#xB354;&#xB418;&#xB294; &#xD6A8;&#xACFC;, main Effect-&#xD654;&#xBA74;&#xC774; &#xCD9C;&#xB825;&#xB418;&#xB294; &#xCF54;&#xB4DC;
+            useEffect(function(){
+              console.log(&#x27;%cfunc =&#x3E; useEffect number (componentDidMount &#x26; componentDidUpdate) A&#x27;+(++funcId),funcStyle)
+              document.title = number;
+              return function(){ //clean up
+                console.log(&#x27;%cfunc =&#x3E; useEffect return (componentDidMount &#x26; componentDidUpdate)&#x27;+(++funcId),funcStyle)
+              }
+            }, [number])
+            //&#xBCF5;&#xC218; &#xAC00;&#xB2A5;
+            useEffect(function(){
+              console.log(&#x27;%cfunc =&#x3E; useEffect(componentDidMount &#x26; componentDidUpdate) B&#x27;+(++funcId),funcStyle)
+              document.title = number + &#x22;:&#x22; + _date;
+            })
+            console.log(&#x27;%cfunc =&#x3E; render &#x27;+(++funcId),funcStyle)
+            return(
+              &#x3C;div className=&#x22;container&#x22;&#x3E;
+                &#x3C;h2 style={{color:&#x27;blue&#x27;}}&#x3E;Function style component&#x3C;/h2&#x3E;
+                &#x3C;p&#x3E;Number: {number}&#x3C;/p&#x3E;
+                &#x3C;p&#x3E;date: {_date}&#x3C;/p&#x3E;
+                &#x3C;input type=&#x22;button&#x22; value=&#x22;random&#x22; onClick={
+                  function(){  
+                    setNumber(Math.random());
+                  }
+                }/&#x3E;
+                &#x3C;input type=&#x22;button&#x22; value=&#x22;date&#x22; onClick={
+                  function(){  
+                    setDate((new Date()).toString())
+                  }
+                }/&#x3E;
+              &#x3C;/div&#x3E;
+            )
+          }
+          export default FuncComp</code></pre>
+        </div>
+    </section>
+
+
+    <script src="./prism.js"></script>
+</body>
+
+</html>
