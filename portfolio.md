@@ -89,7 +89,7 @@ UI 설계, 기능 개발, API 연동
 
 ## 내가 그린 그림 (그림판 웹앱)
 
-![image.png](url) | ![image.png](url)
+![image.png](./img/draw1.png) | ![image.png](./img/draw2.png)
 --|--|
 
 링크
@@ -99,15 +99,20 @@ UI 설계, 기능 개발, API 연동
 
 기술 스택
 
-- 
+- **JavaScript** (Canvas API, Audio API, Fetch API), Tailwind CSS
 
 프로젝트 개요
 
-- 
+- 설치 없이 누구나 쉽게 사용 가능한 웹 기반 그림판 어플리케이션
+- 귀엽고 깔끔한 디자인과 밝은 배경음악으로 친근한 분위기 제공
+- 강아지와 고양이 사진 API를 통해 특색있는 그림판 앱 제공
 
 주요 기능 
 
-- 
+1. canvas API를 통한 그림판 기능
+    -   붓 색상, 굵기, 투명도, 지우개 기능 제공
+2. 고양이, 강아지 API를 통해 다양한 참고 동물 사진 제공
+3. Audio API를 통한 배경음악 기능 제공
 
 ## 성훈의 방명록 (그룹 스터디 및 개인 프로젝트)
 
