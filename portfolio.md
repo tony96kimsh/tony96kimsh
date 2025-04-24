@@ -16,8 +16,6 @@
 
 # 자기소개
 
-
-
 패션 브랜드 자라홈에서 3년간 매장 관리직으로 근무하며 빠르게 변화하는 SPA 매장의 특성상, 계획적인 운영과 원활한 커뮤니케이션 역량을 쌓았습니다. 특히, 재고 관리를 위한 **RFID 시스템 도입을 주도하면서 IT 기술이 업무 효율성과 연결되는 경험을 하였고**, 이를 계기로 자연스럽게 개발에 대한 관심을 갖게 되었습니다.
 
 이후 QA 업무를 맡으며 1년 8개월간 다양한 테스트 환경을 경험했고, ISTQB CTFL 자격증을 취득하며 **체계적인 검증 방식과 애자일 개발 프로세스**에 대한 이해를 넓혔습니다.
@@ -26,23 +24,51 @@
 
 # 기술스택
 
+☕️ Frontend
+- **📐 Markup & Styling**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
+
+- **⚛️ Framework / Library**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
 
 
-**Frontend**
+🖥 Backend
 
-- React, JavaScript, HTML, CSS, jQuery, Bootstrap, Tailwind
+- **⚙️ Runtime**  
+![Node.js
+](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
 
-**Tools**
+- **🔗 API 연동 / 백엔드 통신**
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
 
-- Git, GitHub, Figma, Photoshop, Illustrator, Jira, Slack
 
-**Backend**
+🔤 Languages
 
-- Node.js, Open API 활용
+- **🧱 절차형**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=fff)
 
-**QA**
+- **🧩 객체지향**  
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=fff) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
 
-- ISTQB CTFL, JIRA 테스트 경험
+- **🐍 스크립트**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+
+
+🧰 Tools & Platforms
+
+- **🧩 버전 관리 / 협업**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
+
+- **🚀 배포 플랫폼**  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+
+- 🎨 Design
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
+
+
+✅ QA
+- ![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-blue?style=for-the-badge) ![Tested with JIRA](https://img.shields.io/badge/Tested%20With-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 
 # 풀스택 프로젝트 “Glove project”
 
@@ -60,6 +86,28 @@ UI 설계, 기능 개발, API 연동
 
 - 글로브 프로젝트로 이름을 정한 이유는  QA 업무 경험 이후 프로젝트를 좀 더 완성도 있고 안정적으로 마무리 짓고 싶었습니다. 마치 야구에서 좋은 공이든 나쁜 공이든 포수의 글로브에 안정적으로 안착하듯이 완성하고 싶어서 지은 이름입니다. 또한 “glove”란 발음에서 오는 기분 좋은 바이브가 있었습니다.
 - 디자인과 설계로 많은 시간을 할애했던 이전 프로젝트와 달리 개발에 집중한 프로젝트입니다.
+
+## 내가 그린 그림 (그림판 웹앱)
+
+![image.png](url) | ![image.png](url)
+--|--|
+
+링크
+
+- 🧑‍💻 [깃허브 코드 및 설명](url)
+- [🌐 사이트 바로가기](url)
+
+기술 스택
+
+- 
+
+프로젝트 개요
+
+- 
+
+주요 기능 
+
+- 
 
 ## 성훈의 방명록 (그룹 스터디 및 개인 프로젝트)
 
@@ -92,9 +140,8 @@ UI 설계, 기능 개발, API 연동
 
 ## 📚 PhilPick (알라딘 Open API 도서 검색 웹 앱)
 
-![image.png](img/image%203.png)
-
-![image.png](img/image%204.png)
+![image.png](img/image%203.png) | ![image.png](img/image%204.png)
+--|--|
 
 링크
 
@@ -174,15 +221,14 @@ UI 설계, 기능 개발, API 연동
 
 # 프론트엔드 프로젝트 “meta-tony-test 1.0”
 
-![image.png](img/image%206.png)
+![image.png](img/image%206.png) | ![image.png](img/image%207.png)
+--|--|
 
-![image.png](img/image%207.png)
+![image.png](img/image%208.png) | ![image.png](img/image%209.png)
+--|--|
 
-![image.png](img/image%208.png)
 
-![image.png](img/image%209.png)
-
-> [Project Link](https://meta-tony-test1.github.io/portfolio_v1.0/portfolio.html)
+> [Project Link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/portfolio.html)
 > 
 
 사용 언어 및 툴
@@ -194,9 +240,8 @@ UI 설계, 기능 개발, API 연동
 
 ## 라이브러리 없이 jQuery를 통한 영동군청 카피 구현
 
-![image.png](img/image%2010.png)
-
-![image.png](img/image%2011.png)
+![image.png](img/image%2010.png) | ![image.png](img/image%2011.png)
+--|--|
 
 - jQuery 코드
     - 4단 반응형 구현
@@ -205,13 +250,10 @@ UI 설계, 기능 개발, API 연동
 
 ## 라이브러리 없이 jQuery를 통한 KB은행 카피 구현
 
-![image.png](img/image%2012.png)
+![image.png](img/image%2012.png) | ![image.png](img/image%2013.png) | ![image.png](img/image%2014.png)
+--|--|--|
 
-![image.png](img/image%2013.png)
-
-![image.png](img/image%2014.png)
-
-- PC, Mobile 반응형(적응형) 사이트 제작 - [link](https://meta-tony-test1.github.io/portfolio_v1.0/list/mark-1.html)
+- PC, Mobile 반응형(적응형) 사이트 제작 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/mark-1.html)
 - jQuery 코드 - [Link](https://meta-tony-test1.github.io/copy_KB_bank/js/script.js)
     - 슬라이드 및 애니메이션 구현
     - 스크롤에 따른 반응 구현
@@ -221,99 +263,77 @@ UI 설계, 기능 개발, API 연동
 
 ## 대성 홀딩스
 
-![image.png](img/image%2015.png)
+![image.png](img/image%2015.png) | ![image.png](img/image%2016.png) | ![image.png](img/image%2017.png)
+--|--|--|
 
-![image.png](img/image%2016.png)
-
-![image.png](img/image%2017.png)
-
-- 리뉴얼 사이트 링크 - [link](https://meta-tony-test1.github.io/portfolio_v1.0/list/ds/index.html)
-- 디지인 및 구상 안내- [link](https://meta-tony-test1.github.io/portfolio_v1.0/list/mark-4.html)
+- 리뉴얼 사이트 링크 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/ds/index.html)
+- 디지인 및 구상 안내- [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/mark-4.html)
 - 기존 대성 홀딩스 사이트를 리뉴얼 디자인하여 웹 표준으로 웹 사이트 제작
 - CSS를 통한 아코디언 요소를 구현
 - 파비콘 구현
 
 ## 성형외과 웹 사이트 디자인 및 마크업
 
-![image.png](img/image%2018.png)
+![image.png](img/image%2018.png) | ![image.png](img/image%2019.png) | ![image.png](img/image%2020.png)
+--|--|--|
 
-![image.png](img/image%2019.png)
-
-![image.png](img/image%2020.png)
-
-- 제작 사이트 - [Link](https://meta-tony-test1.github.io/portfolio_v1.0/list/hj/index.html)
-- 디자인 및 설명 안내 - [link](https://meta-tony-test1.github.io/portfolio_v1.0/list/mark-5.html)
+- 제작 사이트 - [Link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/hj/index.html)
+- 디자인 및 설명 안내 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/mark-5.html)
 - 성형외과의 사용자 니즈에 맞춘 트랜디한 계절감을 살린 웹 사이트 디자인 및 웹 표준 제작
 - CSS를 통한 슬라이드 UI 구현
 - 파비콘 로고 구현
 
 ## Hello! Langth **(**화상영어 앱 디자인)
 
-![image.png](img/image%2021.png)
+![image.png](img/image%2021.png)|![image.png](img/image%2022.png)
+ --|--|
 
-![image.png](img/image%2022.png)
 
-![image.png](img/image%2023.png)
+![image.png](img/image%2023.png)|![image.png](img/image%2024.png)
+--|--|
 
-![image.png](img/image%2024.png)
-
-- 제작 사이트 - [link](https://meta-tony-test1.github.io/portfolio_v1.0/list/wd-1.html)
+- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/wd-1.html)
 
 ## (팀 프로젝트 / 디자인담당) 반려식물 관리 앱 “목요일”
 
-![image.png](img/image%2025.png)
+![image.png](img/image%2025.png)|![image.png](img/image%2026.png)
+--|--|
 
-![image.png](img/image%2026.png)
+![image.png](img/image%2027.png)|![image.png](img/image%2028.png)|![image.png](img/image%2029.png)
+--|--|--|
 
-![image.png](img/image%2027.png)
 
-![image.png](img/image%2028.png)
-
-![image.png](img/image%2029.png)
-
-- 제작 사이트 - [link](https://meta-tony-test1.github.io/portfolio_v1.0/list/wd-2.html)
+- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/wd-2.html)
 
 ## 가구 쇼핑몰 반응형 웹 디자인 “HI FURNITURE”
 
-![image.png](img/image%2030.png)
+![image.png](img/image%2030.png)|![image.png](img/image%2031.png)
+--|--|
+![image.png](img/image%2032.png)|![image.png](img/image%2033.png)
 
-![image.png](img/image%2031.png)
 
-![image.png](img/image%2032.png)
-
-![image.png](img/image%2033.png)
-
-- 제작 사이트 - [link](https://meta-tony-test1.github.io/portfolio_v1.0/list/wd-3.html)
+- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/wd-3.html)
 
 ## 스포츠 레저 PC 웹 디자인 “HT LTP”
 
-![hl-main.jpg](img/hl-main.jpg)
+![hl-main.jpg](img/hl-main.jpg)|![2.jpg](img/2.jpg)
+--|--|
+![3.jpg](img/3.jpg)|![image.png](img/image%2034.png)
 
-![2.jpg](img/2.jpg)
 
-![3.jpg](img/3.jpg)
-
-![image.png](img/image%2034.png)
-
-- 제작 사이트 - [link](https://meta-tony-test1.github.io/portfolio_v1.0/list/wd-4.html)
+- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/wd-4.html)
 
 # QA 업무 및 협업 경험
 
 ## QA업무 **23.05 - 24.01 (1년 8개월)**
 
-![image.png](img/image%2035.png)
-
-![image.png](img/image%2036.png)
-
-![image.png](img/image%2037.png)
+![image.png](img/image%2035.png)|![image.png](img/image%2036.png)|![image.png](img/image%2037.png)
+--|--|--|
 
 ## RFID 재고 시스템 관리 “ZARAHOME”
 
-![image.png](img/image%2038.png)
-
-![image.png](img/image%2039.png)
-
-![image.png](img/image%2040.png)
+![image.png](img/image%2038.png)|![image.png](img/image%2039.png)|![image.png](img/image%2040.png)
+--|--|--|
 
 ## **경력**
 
@@ -345,8 +365,8 @@ UI 설계, 기능 개발, API 연동
 
 # Contact
 
-| ![SungHoonKim.JPG](img/SungHoonKim.jpg) | 👤 **김성훈** (96.03.26) <br> 📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com  <br> <br>🌐 [포트폴리오](./portfolio.md)
- --|--|
+| <img src="img/SungHoonKim.jpg" width="200"> | 👤 **김성훈** (96.03.26) <br> 📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com  <br> <br>🌐 [포트폴리오](./portfolio.md) |
+|--|--|
 
 > **“동료의 성장은 곧 나의 성장”**  
 > 협업을 통해 함께 성장하는 개발자가 되겠습니다.
