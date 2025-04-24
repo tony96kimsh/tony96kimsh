@@ -1,4 +1,32 @@
-# glove project
+## 내가 그린 그림 (그림판 웹앱)
+
+![image.png](../img/draw1.png) | ![image.png](../img/draw2.png)
+--|--|
+
+링크
+
+- 🧑‍💻 [깃허브 코드 및 설명](https://github.com/tony96kimsh/DrawAnyAnimal)
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/DrawAnyAnimal)
+
+기술 스택
+
+- JavaScript (Canvas API, Audio API, Fetch API)
+- Tailwind CSS
+
+프로젝트 개요
+
+- 설치 없이 누구나 쉽게 사용 가능한 웹 기반 그림판 어플리케이션
+- 귀엽고 깔끔한 디자인과 밝은 배경음악으로 친근한 분위기 제공
+- 강아지와 고양이 사진 API를 통해 특색있는 그림판 앱 제공
+
+주요 기능
+
+1. canvas API를 통한 그림판 기능
+    -   붓 색상, 굵기, 투명도, 지우개 기능 제공
+2. 고양이, 강아지 API를 통해 다양한 참고 동물 사진 제공
+3. Audio API를 통한 배경음악 기능 제공
+
+<br>
 
 ## 성훈의 방명록 (그룹 스터디 및 개인 프로젝트)
 
@@ -8,7 +36,7 @@
 링크
 
 - [🧑‍💻 깃허브 코드 및 설명](https://github.com/tony96kimsh/muffler)
-- [🌐 구현 사이트 바로가기(Render)](https://muffler.onrender.com/)
+- [🌐 사이트 바로가기](https://muffler.onrender.com/)
 
 기술 스택
 
@@ -29,16 +57,17 @@
 - **Axios로 RESTful API 연동** 및 JSON 처리
 - **Render를 통한 서버 배포 & 접근 가능 웹서비스 구성**
 
+<br>
+
 ## 📚 PhilPick (알라딘 Open API 도서 검색 웹 앱)
 
-![image.png](../img/image%203.png)
-
-![image.png](../img/image%204.png)
+![image.png](../img/image%203.png) | ![image.png](../img/image%204.png)
+--|--|
 
 링크
 
 - 🧑‍💻 [깃허브 코드 및 설명](https://github.com/tony96kimsh/philpick)
-- [🌐 사이트 바로가기 (Vercel)](https://philpick.vercel.app/)
+- [🌐 사이트 바로가기](https://philpick.vercel.app/)
 
 기술 스택
 
@@ -58,9 +87,11 @@
 - **Tailwind CSS로 다크모드 및 반응형 UI 구현**
 - 향후 API 확장 및 즐겨찾기 기능 추가 가능성을 고려하여 **모듈화된 구조**로 설계
 
+<br>
+
 ## Effy Sound (브라우저로 간편하게 어디서나 피아노 연주)
 
-![Screenshot 2025-03-10 at 8.17.31 PM.png](../img/Screenshot_2025-03-10_at_8.17.31_PM.png)
+<img src="../img/Screenshot_2025-03-10_at_8.17.31_PM.png" height="300px">
 
 링크
 
@@ -81,9 +112,11 @@
 - 클릭으로 연주 가능한 피아노 웹 사이트
 - 키보드 단축키 사용 가능
 
+<br>
+
 ## **한국잉! 영어 사전** (App Inventor를 통한 개발)
 
-![image.png](../img/image%205.png)
+<img src="../img/image%205.png" height="300">
 
 링크
 
