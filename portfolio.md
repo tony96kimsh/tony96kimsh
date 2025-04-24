@@ -254,7 +254,7 @@
 ![image.png](img/image%208.png) | ![image.png](img/image%209.png)
 --|--|
 
-- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/portfolio.html)
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html)
 > 
 
 사용 언어 및 툴
@@ -318,47 +318,56 @@
 
 # 디자인 및 퍼블리싱
 
-- 리뉴얼 사이트 링크 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/ds/index.html)
-- 디지인 및 구상 안내- [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/mark-4.html)
-- 기존 대성 홀딩스 사이트를 리뉴얼 디자인하여 웹 표준으로 웹 사이트 제작
-- CSS를 통한 아코디언 요소를 구현
-- 파비콘 구현
 ## 대성 홀딩스 (리뉴얼 디자인 및 마크업)
+
+
+
 
 ![image.png](img/image%2015.png) | ![image.png](img/image%2016.png) | ![image.png](img/image%2017.png)
 --|--|--|
 
 링크
 
-- 🧑‍💻 [깃허브 코드 및 설명](url)
-- [🌐 사이트 바로가기](url)
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/ds/index.html)
 
 기술 스택
 
-- 
+- HTML, CSS
 
 프로젝트 개요
 
-- 
+- 기존 대성 홀딩스 사이트를 리뉴얼 디자인하여 웹 표준으로 웹 사이트 제작
 
 주요 기능 
 
-- 
+- CSS를 통한 아코디언 요소를 구현
+- 파비콘 구현
 
 
 
-## 성형외과 웹 사이트 디자인 및 마크업
+## 하이쥬 성형외과 (웹 사이트 디자인 및 마크업)
 
 ![image.png](img/image%2018.png) | ![image.png](img/image%2019.png) | ![image.png](img/image%2020.png)
 --|--|--|
 
-- 제작 사이트 - [Link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/hj/index.html)
-- 디자인 및 설명 안내 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/mark-5.html)
+링크
+
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/hj)
+
+기술 스택
+
+- HTML, CSS
+
+프로젝트 개요
+
 - 성형외과의 사용자 니즈에 맞춘 트랜디한 계절감을 살린 웹 사이트 디자인 및 웹 표준 제작
+
+주요 기능 
+
 - CSS를 통한 슬라이드 UI 구현
 - 파비콘 로고 구현
 
-## Hello! Langth **(**화상영어 앱 디자인)
+## Hello! Langth (화상영어 앱 디자인)
 
 ![image.png](img/image%2021.png)|![image.png](img/image%2022.png)
  --|--|
@@ -367,7 +376,21 @@
 ![image.png](img/image%2023.png)|![image.png](img/image%2024.png)
 --|--|
 
-- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/wd-1.html)
+링크
+
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/wd-1.html)
+
+기술 스택
+
+- photoshop,  Illustrator
+
+프로젝트 개요
+
+- 모바일 화상 영어 교육 디자인
+
+
+
+
 
 ## (팀 프로젝트 / 디자인담당) 반려식물 관리 앱 “목요일”
 
@@ -378,7 +401,20 @@
 --|--|--|
 
 
-- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/wd-2.html)
+
+링크
+
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/wd-2.html)
+
+기술 스택
+
+- photoshop,  Illustrator
+
+프로젝트 개요
+
+- 반려 식물 가이드 모바일 어플리케이션 디자인 팀 프로젝트
+
+- 디자인 총관 담당
 
 ## 가구 쇼핑몰 반응형 웹 디자인 “HI FURNITURE”
 
@@ -387,7 +423,19 @@
 ![image.png](img/image%2032.png)|![image.png](img/image%2033.png)
 
 
-- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/wd-3.html)
+링크
+
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/wd-4.html)
+
+기술 스택
+
+- photoshop
+
+프로젝트 개요
+
+- 모바일/PC 가구 쇼핑몰  웹 사이트 디자인
+
+
 
 ## 스포츠 레저 PC 웹 디자인 “HT LTP”
 
@@ -395,8 +443,18 @@
 --|--|
 ![3.jpg](img/3.jpg)|![image.png](img/image%2034.png)
 
+링크
 
-- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/wd-4.html)
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/wd-4.html)
+
+기술 스택
+
+- photoshop
+
+프로젝트 개요
+
+- 스포츠 레저 사이트 디자인
+
 
 # QA 업무 및 협업 경험
 
