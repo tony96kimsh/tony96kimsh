@@ -1,13 +1,10 @@
-# portfolio_v1.0
-22.03.10 ~ 22.09.01 퍼블리싱을 연습하며 만든 첫 포트폴리오입니다.
+# MTT project
 
-- [포트폴리오 노션 링크](https://stump-smartphone-024.notion.site/QA-JavaScript-NodeJS-C-C-C-python-19af398452c380b3b02bf292ddf0498e?pvs=4)
+> 22.03.10 ~ 22.09.01 퍼블리싱을 연습하며 만든 첫 포트폴리오 MTT(meta-tony-test)입니다.
 
-- [1.0 포트폴리오 웹 사이트 링크](https://tony96kimsh.github.io/portfolio_v1.0/)
+- [ 포트폴리오 웹 사이트 링크](https://tony96kimsh.github.io/portfolio_v1.0/)
 
-- [2.0 포트폴리오 깃허브 링크](https://github.com/tony96kimsh/gloveproject)
-
-<br><br><br>
+<br><br>
 
 # 🌐 meta-tony-test 1.0
 
