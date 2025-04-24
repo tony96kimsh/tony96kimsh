@@ -9,18 +9,19 @@
 React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱 및 QA 경험까지  
 **넓고 탄탄한 개발 스펙트럼**을 지닌 풀스택 주니어 개발자입니다.
 
+<br>
 
-## 🔗 링크
+# 🔗 링크
  
- ### [💻 포트폴리오](./portfolio.md)
+### [💻 포트폴리오](./portfolio.md)
  
- ### [📄 이력서](./CV.md)
+### [📄 이력서](./CV.md)
 
+<br>
 
+# 🛠 기술 스택
 
-## 🛠 기술 스택
-
-### ☕️ Frontend
+## ☕️ Frontend
 
 **📐 Markup & Styling**
 
@@ -30,8 +31,9 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
 
+<br>
 
-### 🖥 Backend
+## 🖥 Backend
 
 **⚙️ Runtime**  
 
@@ -42,8 +44,9 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
 
+<br>
 
-### 🔤 Languages
+## 🔤 Languages
 
 **🧱 절차형**  
 
@@ -57,24 +60,29 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
+<br>
 
-### 🧰 Tools & Platforms
+## 🧰 Tools & Platforms
 
 **🧩 버전 관리 / 협업**  
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=fff) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=fff) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 
 **🚀 배포 플랫폼**  
+
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
 **🎨 Design**
+
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
 
 
-### ✅ QA
+## ✅ QA
 ![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-blue?style=for-the-badge) ![Tested with JIRA](https://img.shields.io/badge/Tested%20With-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 
+<br>
 
-## 🌟 대표 프로젝트
+# 🌟 대표 프로젝트
 
 ### [🎨 내가 그린 그림](https://github.com/tony96kimsh/DrawAnyAnimal)
 - 강아지와 고양이 사진 API와 HTML5 CanvasAPI 통해 특색있는 그림판 앱 제공
@@ -94,8 +102,9 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 - 키보드 단축키 기능
 - 음정 테스트 기능
 
+<br>
 
-## 📬 Contact
+# 📬 Contact
 
 <img src="img/SungHoonKim.jpg" width="150">|👤 **김성훈** (96.03.26)<br>📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com<br>🌐 [포트폴리오](./portfolio.md)
 --|--|
