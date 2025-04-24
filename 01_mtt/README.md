@@ -38,7 +38,7 @@
 - 프론트엔드 리액트(강남 이젠아카데미 22.09 - 22.12)
 - 바닐라 자바스크립트(강남 이젠아카데미  22.09 - 22.12)
 - 블로그 일지 - [link](https://meta-tony.tistory.com/61)
-- 프로그램 실행 - [link](https://tony96kimsh.github.io/portfolio_v1.0/list/js2.html)
+- 프로그램 실행 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/js2.html)
 - React class과 React function 문법으로 fetch-API 구현
 - class와 function 각각의 lifecycle method 사용
 
@@ -63,7 +63,7 @@
 ![image.png](imgReadMe/image%2037.png) | ![image.png](imgReadMe/image%2038.png) | ![image.png](imgReadMe/image%2039.png)
 --|--|--|
 
-- PC, Mobile 반응형(적응형) 사이트 제작 - [link](https://tony96kimsh.github.io/portfolio_v1.0/list/mark-1.html)
+- PC, Mobile 반응형(적응형) 사이트 제작 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/kb/)
 - jQuery 코드 - [Link](https://tony96kimsh.github.io/copy_KB_bank/js/script.js)
     - 슬라이드 및 애니메이션 구현
     - 스크롤에 따른 반응 구현
@@ -78,8 +78,8 @@
 ![image.png](imgReadMe/image%2040.png) | ![image.png](imgReadMe/image%2041.png) | ![image.png](imgReadMe/image%2042.png)
 --|--|--|
 
-- 리뉴얼 사이트 링크 - [link](https://tony96kimsh.github.io/portfolio_v1.0/list/ds/index.html)
-- 디지인 및 구상 안내- [link](https://tony96kimsh.github.io/portfolio_v1.0/list/mark-4.html)
+- 리뉴얼 사이트 링크 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/ds/index.html)
+- 디지인 및 구상 안내- [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/mark-4.html)
 - 기존 대성 홀딩스 사이트를 리뉴얼 디자인하여 웹 표준으로 웹 사이트 제작
 - CSS를 통한 아코디언 요소를 구현
 - 파비콘 구현
@@ -89,8 +89,8 @@
 ![image.png](imgReadMe/image%2043.png) | ![image.png](imgReadMe/image%2044.png) | ![image.png](imgReadMe/image%2045.png)
 --|--|--|
 
-- 제작 사이트 - [Link](https://tony96kimsh.github.io/portfolio_v1.0/list/hj/index.html)
-- 디자인 및 설명 안내 - [link](https://tony96kimsh.github.io/portfolio_v1.0/list/mark-5.html)
+- 제작 사이트 - [Link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/hj/index.html)
+- 디자인 및 설명 안내 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/mark-5.html)
 - 성형외과의 사용자 니즈에 맞춘 트랜디한 계절감을 살린 웹 사이트 디자인 및 웹 표준 제작
 - CSS를 통한 슬라이드 UI 구현
 - 파비콘 로고 구현
@@ -107,7 +107,7 @@
 ![image.png](imgReadMe/image%2048.png) | ![image.png](imgReadMe/image%2049.png) 
 --|--|
 
-- 제작 사이트 - [link](https://tony96kimsh.github.io/portfolio_v1.0/list/wd-1.html)
+- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/wd-1.html)
 
 ### 2. (팀 프로젝트 / 디자인담당) 반려식물 관리 앱 “목요일”
 
@@ -118,7 +118,7 @@
 --|--|--|
 
 
-- 제작 사이트 - [link](https://tony96kimsh.github.io/portfolio_v1.0/list/wd-2.html)
+- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/wd-2.html)
 
 ### 3. 가구 쇼핑몰 반응형 웹 디자인 “HI FURNITURE”
 
@@ -129,7 +129,7 @@
 --|--|
 
 
-- 제작 사이트 - [link](https://tony96kimsh.github.io/portfolio_v1.0/list/wd-3.html)
+- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/wd-3.html)
 
 ### 4. 스포츠 레저 PC 웹 디자인 “HT LTP”
 
@@ -139,7 +139,7 @@
 ![3.jpg](imgReadMe/3.jpg) | ![image.png](imgReadMe/image%2059.png)
 --|--|
 
-- 제작 사이트 - [link](https://tony96kimsh.github.io/portfolio_v1.0/list/wd-4.html)
+- 제작 사이트 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/wd-4.html)
 
 <br><br>
 

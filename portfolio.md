@@ -93,7 +93,7 @@
 
 소개
 
-- 글로브 프로젝트로 이름을 정한 이유는  QA 업무 경험 이후 프로젝트를 좀 더 완성도 있고 안정적으로 마무리 짓고 싶었습니다. 마치 야구에서 좋은 공이든 나쁜 공이든 포수의 글로브에 안정적으로 안착하듯이 완성하고 싶어서 지은 이름입니다. 또한 “glove”란 발음에서 오는 기분 좋은 바이브가 있었습니다.
+- 글로브 프로젝트로 이름을 정한 이유는 QA 업무 경험 이후 프로젝트를 완성도 있고 정적으로 마무리 짓고 싶었습니다. **마치 야구에서 좋은 공이든 나쁜 공이든 포수의 글로브에 안정적으로 안착하듯이 완성하고 싶어서 지은 이름입니다.** 또한 “glove”란 발음에서 오는 기분 좋은 바이브가 있었습니다.
 - 디자인과 설계로 많은 시간을 할애했던 이전 프로젝트와 달리 개발에 집중한 프로젝트입니다.
 
 <br>
@@ -254,8 +254,7 @@
 ![image.png](img/image%208.png) | ![image.png](img/image%209.png)
 --|--|
 
-
-> [Project Link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/portfolio.html)
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/portfolio.html)
 > 
 
 사용 언어 및 툴
@@ -272,23 +271,32 @@
 ![image.png](img/image%2010.png) | ![image.png](img/image%2011.png)
 --|--|
 
+- 🧑‍💻 [깃허브 코드 및 설명](https://github.com/tony96kimsh/tony96kimsh/tree/main/01_mtt/list/yd)
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/yd)
+
+
+프로젝트 개요
+
 - jQuery 코드
-    - 4단 반응형 구현
-    - 슬라이드 및 아이콘 루프 애니메이션 구현
-    - 날씨 위젯 및 날짜 메소드 사용 ([블로그 포스팅](https://velog.io/@tonyisback/jQuery-%EB%82%A0%EC%A7%9C-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%A3%BC%EA%B0%84-%EB%8B%AC%EB%A0%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-date-method))
+- 4단 반응형 구현
+- 슬라이드 및 아이콘 루프 애니메이션 구현
+-  [날씨 위젯 및 날짜 메소드 사용](https://velog.io/@tonyisback/jQuery-%EB%82%A0%EC%A7%9C-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%A3%BC%EA%B0%84-%EB%8B%AC%EB%A0%A5-%EB%A7%8C%EB%93%A4%EA%B8%B0-date-method)
 
 <br>
 
-## 라이브러리 없이 jQuery를 통한 KB은행 카피 구현
+## KB은행 웹 카피(라이브러리 없이 jQuery 사용)
 
 ![image.png](img/image%2012.png) | ![image.png](img/image%2013.png) | ![image.png](img/image%2014.png)
 --|--|--|
 
-- PC, Mobile 반응형(적응형) 사이트 제작 - [link](https://tony96kimsh.github.io/tony96kimsh/01_mtt/portfolio.html/list/mark-1.html)
-- jQuery 코드 - [Link](https://meta-tony-test1.github.io/copy_KB_bank/js/script.js)
-    - 슬라이드 및 애니메이션 구현
-    - 스크롤에 따른 반응 구현
-- 제작일지 [blog](https://velog.io/@tonyisback/001day-%EC%9B%B9%EC%B9%B4%ED%94%BC-KB%EC%B9%B4%EB%93%9C) / [github](https://github.com/meta-tony-test1/copy_KB_bank.git)
+- [🧑‍💻 깃허브 코드 및 설명](https://github.com/tony96kimsh/tony96kimsh/tree/main/01_mtt/list/kb)
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/tony96kimsh/01_mtt/list/kb)
+
+프로젝트 개요
+
+- PC, Mobile 반응형(적응형) 사이트 제작
+- 슬라이드 및 애니메이션 구현
+- 스크롤에 따른 반응 구현
 
 <br>
 
