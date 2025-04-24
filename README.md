@@ -22,10 +22,12 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 ### ☕️ Frontend
 
-**📐 Markup & Styling**  
+**📐 Markup & Styling**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
 
 **⚛️ Framework / Library**
+
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
 
 
@@ -95,19 +97,8 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 ## 📬 Contact
 
-<table style="width:100%;">
-  <tr>
-    <td style="width:30%; vertical-align: top;">
-      <img src="img/SungHoonKim.jpg" width="100%">
-    </td>
-    <td style="width:70%; vertical-align: top;">
-      <strong>👤 김성훈</strong> (96.03.26) <br>
-      📞 010-9626-6393<br>
-      ✉️ tony96kimsh@gmail.com<br><br>
-      🌐 <a href="./portfolio.md">포트폴리오</a>
-    </td>
-  </tr>
-</table>
+<img src="img/SungHoonKim.jpg" width="150">|👤 **김성훈** (96.03.26)<br>📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com<br>🌐 [포트폴리오](./portfolio.md)
+--|--|
 
 > **“동료의 성장은 곧 나의 성장”**  
 > 협업을 통해 함께 성장하는 개발자가 되겠습니다.
