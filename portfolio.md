@@ -206,7 +206,7 @@
 
 ## **한국잉! 영어 사전** (App Inventor를 통한 개발)
 
-![image.png](img/image%205.png)
+<img src="img/image%205.png" height="300">
 
 링크
 
