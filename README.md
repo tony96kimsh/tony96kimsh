@@ -9,19 +9,17 @@
 React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱 및 QA 경험까지  
 **넓고 탄탄한 개발 스펙트럼**을 지닌 풀스택 주니어 개발자입니다.
 
----
 
 ## 🔗 포트폴리오 개요
  
- [📄 이력서](./CV.md)
+ ### [📄 이력서](./CV.md)
 
- [💻 포트폴리오](./portfolio.md)
+ ### [💻 포트폴리오](./portfolio.md)
 
----
 
 ## 🛠 기술 스택
 
-### 💻 Frontend
+### ☕️ Frontend
 
 **📐 Markup & Styling**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=fff) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=fff) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff)
@@ -29,7 +27,6 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 **⚛️ Framework / Library**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000) ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=fff)
 
----
 
 ### 🖥 Backend
 
@@ -42,7 +39,6 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=fff)
 
----
 
 ### 🔤 Languages
 
@@ -55,7 +51,6 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 **🐍 스크립트**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
 
----
 
 ### 🧰 Tools & Platforms
 
@@ -65,47 +60,42 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 **🚀 배포 플랫폼**  
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=fff) ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
----
 
-### 🎨 Design
+#### 🎨 Design
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=fff) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=fff) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=fff)
 
----
 
 ### ✅ QA
 
 ![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-blue?style=for-the-badge) ![Tested with JIRA](https://img.shields.io/badge/Tested%20With-JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=fff)
 
----
 
 ## 🌟 대표 프로젝트
 
-[📚 PhilPick - 도서 검색 웹 앱](https://github.com/tony96kimsh/philpick)
-> 알라딘 Open API / 검색 UI & 실시간 렌더링 / Vercel 배포
+[🎨 내가 그린 그림](https://github.com/tony96kimsh/DrawAnyAnimal)
+- 강아지와 고양이 사진 API와 HTML5 CanvasAPI 통해 특색있는 그림판 앱 제공
 
-<br>
-
-[🎵 Effy Sound - 피아노 & 음 모니터 앱](https://github.com/tony96kimsh/piano)
-> JS 기반 웹 피아노 / 키보드 단축키 / 음정 테스트 기능
-
-<br>
 
 [📝 성훈의 방명록](https://github.com/tony96kimsh/muffler)
+- Node.JS 그룹 스터디(muffler) 과정과 개인 방명록 프로젝트
+- JSONBin + Render 기반 백엔드
+- EJS 템플릿 기반 UI 구성 
 
-> Node.JS 그룹 스터디(muffler) 과정과 개인 방명록 프로젝트 / JSONBin + Render 기반 백엔드 / EJS 템플릿 기반 UI 구성 
->
+[📚 PhilPick - 도서 검색 웹 앱](https://github.com/tony96kimsh/philpick)
+- 알라딘 Open API
+- 검색 UI & 실시간 렌더링 및 Vercel 배포
 
----
+[🎵 Effy Sound - 피아노 & 음 모니터 앱](https://github.com/tony96kimsh/piano)
+- JS 기반 웹 피아노
+- 키보드 단축키 기능
+- 음정 테스트 기능
+
 
 ## 📬 Contact
 
-- 김성훈 (1996.03.26)
-- 📧 Email: Tony96kimsh@gmail.com  
-- 📞 Phone: 010-9626-6393
--  [📄 이력서](./CV.md)
-
----
+| ![SungHoonKim.JPG](img/SungHoonKim.jpg) | 👤 **김성훈** (96.03.26) <br> 📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com  <br> <br>🌐 [포트폴리오](./portfolio.md)
+ --|--|
 
 > **“동료의 성장은 곧 나의 성장”**  
 > 협업을 통해 함께 성장하는 개발자가 되겠습니다.
