@@ -106,7 +106,7 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 # 📬 Contact
 
-<img src="img/SungHoonKim.jpg" width="150">|👤 **김성훈** (96.03.26)<br>📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com<br>🌐 [포트폴리오](./portfolio.md)
+<img src="img/SungHoonKim_re.png" width="150">|👤 **김성훈** (96.03.26)<br>📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com<br>🌐 [포트폴리오](./portfolio.md)
 --|--|
 
 > **“동료의 성장은 곧 나의 성장”**  

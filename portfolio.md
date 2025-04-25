@@ -115,9 +115,9 @@
 
 프로젝트 개요
 
-- 설치 없이 누구나 쉽게 사용 가능한 웹 기반 그림판 어플리케이션
-- 귀엽고 깔끔한 디자인과 밝은 배경음악으로 친근한 분위기 제공
-- 강아지와 고양이 사진 API를 통해 특색있는 그림판 앱 제공
+- 설치 없이 누구나 쉽게 사용 가능한 웹 기반 그림판 어플리케이션입니다.
+- 귀엽고 깔끔한 디자인과 밝은 배경음악으로 친근한 분위기 제공합니다.
+- 강아지와 고양이 사진 API를 통해 특색있는 그림판입니다.
 
 주요 기능 
 
@@ -475,8 +475,6 @@
 
 # 교육 이수 및 자격증
 
-
-
 ## 교육 이수
 
 - Node.js 풀스택 개발자 양성 과정(한국SW기술진흥협회(KOSTA) 2025.2 - 2025.07)
@@ -496,9 +494,19 @@
 - 한국폴리텍 패션디자인과  1학년 중퇴 (2015.03 ~ 2015.07)
 - 한국방송통신대 컴퓨터과학과 3학년 재학 중 (2023.03 ~ 현재)
 
+# 프로젝트 요약
+프로젝트 명 | 설명
+--|--|
+[🎨 내가 그린 그림](https://github.com/tony96kimsh/DrawAnyAnimal)| 귀여운 강아지와 고양이 사진과 배경음악을 함께 제공하는 그림판 웹앱입니다. 
+[📝 성훈의 방명록](https://github.com/tony96kimsh/muffler)|5주 Node.JS 그룹 스터디(muffler) 과정과 개인 방명록 프로젝트로 JSONBin + Render 기반 백엔드와 EJS 템플릿 마크업으로 구성하였습니다.
+[📚 PhilPick](https://github.com/tony96kimsh/philpick)|도서 검색 기능 웹으로 알라딘 Open API를 Fetch API를 통해 사용하였고, CORS 보안에 접근하기 위해 Vercel 서버리스로 배포하였습니다.
+[🎹 Effy Sound](https://github.com/tony96kimsh/piano)| 피아노 웹앱으로 마우스와 키보드 모두 연주 가능한 가볍고 깔끔하게 구성했습니다.
+
+<br>
+
 # Contact
 
-<img src="img/SungHoonKim.jpg" width="150">|👤 **김성훈** (96.03.26)<br>📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com<br>🌐 [포트폴리오](./portfolio.md)
+<img src="img/SungHoonKim_re.png" width="150">|👤 **김성훈** (96.03.26)<br>📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com<br>🌐 [포트폴리오](./portfolio.md)
 --|--|
 
 
