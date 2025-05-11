@@ -84,6 +84,10 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 # 🌟 대표 프로젝트
 
+### [📂Auto Foldering - 날짜별 윈도우 파일 정리 앱](https://github.com/tony96kimsh/Auto-Foldering)
+- C# UI 라이브러리 윈폼을 사용한 데스크톱 어플리케이션
+- 윈도우 환경에서 흩어진 사진, 문서 등의 파일을 생성 날짜 기반으로 연도/월/주 단위로 자동 정리 기능 제공
+
 ### [🎨 내가 그린 그림](https://github.com/tony96kimsh/DrawAnyAnimal)
 - 강아지와 고양이 사진 API와 HTML5 CanvasAPI 통해 특색있는 그림판 앱 제공
 
