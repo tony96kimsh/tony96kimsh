@@ -556,6 +556,7 @@
 # 프로젝트 요약
 프로젝트 명 | 설명
 --|--|
+[📂Auto Foldering](https://github.com/tony96kimsh/Auto-Foldering) | C# UI 라이브러리 윈폼으로 개발한 파일 정리 프로그램입니다.
 [🎨 내가 그린 그림](https://github.com/tony96kimsh/DrawAnyAnimal)| 귀여운 강아지와 고양이 사진과 배경음악을 함께 제공하는 그림판 웹앱입니다. 
 [📝 성훈의 방명록](https://github.com/tony96kimsh/muffler)|5주 Node.JS 그룹 스터디(muffler) 과정과 개인 방명록 프로젝트로 JSONBin + Render 기반 백엔드와 EJS 템플릿 마크업으로 구성하였습니다.
 [📚 PhilPick](https://github.com/tony96kimsh/philpick)|도서 검색 기능 웹으로 알라딘 Open API를 Fetch API를 통해 사용하였고, CORS 보안에 접근하기 위해 Vercel 서버리스로 배포하였습니다.
