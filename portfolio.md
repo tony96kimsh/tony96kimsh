@@ -100,8 +100,8 @@
 
 ## Auto-Foldering (윈도우 파일 자동 폴더 정리 앱)
 
-![Auto-foldering](./img/auto-folder1.png) | ![image.png](./img/auto-folder2.png)
---|--|
+![Auto-foldering](./img/auto-folder1.png) | ![image.png](./img/auto-folder2.png) | ![](./img/logic.jpg)
+--|--|--|
 
 링크
 
