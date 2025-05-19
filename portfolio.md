@@ -98,6 +98,39 @@
 
 <br>
 
+## Daily Article (영어 뉴스 리더 데스크톱 앱)
+
+![DailyArticle 홈](./img/dailyArticle1.jpg) | ![기사 리스트](./img/dailyArticle2.jpg)
+--|--|
+
+링크
+
+- 🧑‍💻 [깃허브 코드 및 설명](https://github.com/tony96kimsh/DailyArticle)
+
+기술 스택
+
+- C# (.NET Framework WinForms)
+- Newtonsoft.Json
+- The Guardian Open API
+
+프로젝트 개요
+
+- WinForms 기반 데스크톱 앱으로, The Guardian 뉴스 API를 활용하여 영어 기사 정보를 매일 자동으로 불러옵니다.
+- 광고 없이 가독성 좋은 UI로 기사 본문, 제목, 발행일을 출력하며, 읽은 기사 및 즐겨찾기 목록을 JSON 파일로 관리할 수 있도록 설계했습니다.
+
+주요 기능 
+
+- 최신 헤드라인 뉴스 자동 수집 및 출력
+- HTML 태그 제거 및 깔끔한 본문 표시
+- 기사 원문 링크 열기 기능
+- 기사 읽은 시간 기록 (`readArticle.json`)
+- 즐겨찾기 등록/해제 및 리스트 열람 (`favoriteList.json`)
+- 리스트에서 기사 선택 후 다시 본문 보기
+- 기사 삭제 및 실시간 반영 기능
+- 툴팁, 로딩 오버레이, 캐럿 제거 등 UI 세부 완성도 향상
+
+<br>
+
 ## Auto-Foldering (윈도우 파일 자동 폴더 정리 앱)
 
 ![Auto-foldering](./img/auto-folder1.png) | ![image.png](./img/auto-folder2.png) | ![](./img/logic.jpg)

@@ -84,6 +84,12 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 # 🌟 대표 프로젝트
 
+### [📰 Daily Article - 영어 뉴스 리더 데스크톱 앱](https://github.com/tony96kimsh/DailyArticle)
+- C# WinForms 기반의 데스크톱 어플리케이션  
+- The Guardian Open API를 활용하여 매일 최신 영어 뉴스를 자동으로 수집 및 출력  
+- 읽은 기사와 즐겨찾기 기능을 JSON 파일로 관리하며, 리스트 형태로 다시 열람 및 삭제 가능  
+- 딤 처리 로딩 UI, HTML 본문 정리, 원문 링크 연결 등 다양한 기능 포함
+
 ### [📂Auto Foldering - 날짜별 윈도우 파일 정리 앱](https://github.com/tony96kimsh/Auto-Foldering)
 - C# UI 라이브러리 윈폼을 사용한 데스크톱 어플리케이션
 - 윈도우 환경에서 흩어진 사진, 문서 등의 파일을 생성 날짜 기반으로 연도/월/주 단위로 자동 정리 기능 제공
