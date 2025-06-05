@@ -64,7 +64,7 @@
     
 
 # 포트폴리오
-- [포트폴리오 링크](./portfolio.md)
+- [포트폴리오 링크](https://tony96kimsh.github.io/glove/)
 
 
 # 학력
@@ -77,7 +77,7 @@
 
 # Contact
 
-<img src="img/SungHoonKim.jpg" width="150">|👤 **김성훈** (96.03.26)<br>📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com<br>🌐 [포트폴리오](./portfolio.md)
+<img src="img/SungHoonKim.jpg" width="150">|👤 **김성훈** (96.03.26)<br>📞 010-9626-6393<br>✉️ tony96kimsh@gmail.com<br>🌐 [포트폴리오](https://tony96kimsh.github.io/glove/)
 --|--|
 
 
