@@ -1,6 +1,6 @@
 ## 영동군청 카피 (라이브러리 없이 jQuery 사용)
 
-![image.png](../../../img/image%2010.png) | ![image.png]((../../../img/image%2011.png)
+![image.png](../../../img/image%2010.png) | ![image.png](../../../img/image%2011.png)
 --|--|
 
 링크
