@@ -97,6 +97,64 @@
 - 디자인과 설계로 많은 시간을 할애했던 이전 프로젝트와 달리 개발에 집중한 프로젝트입니다.
 
 <br>
+<br>
+
+
+## Glove (풀스택 개발자 포트폴리오 사이트)
+
+![구현 사진](./img/glove-experience.png) | ![구현 사진](./img/glove-project.png)
+--|--|
+
+링크  
+- 🧑‍💻 [깃허브 코드 및 설명](https://github.com/tony96kimsh/glove)  
+- 🌐 [사이트 바로가기](https://tony96kimsh.github.io/glove)
+
+기술 스택  
+- React, TypeScript, TailwindCSS, React-Bootstrap, Vite
+
+프로젝트 개요  
+- 'Glove'는 안정적인 마무리를 상징하는 이름으로, QA 경험을 바탕으로 사용자 친화적이고 구조적인 포트폴리오 사이트를 구축한 프로젝트입니다.
+
+주요 기능  
+- 프로젝트 카드 및 마크다운 모달 보기  
+- 기술스택 마퀴 및 소개 영역  
+- 반응형 UI 및 컴포넌트 기반 구조  
+
+<br>
+<br>
+
+## 📎 웹 클립보드 (메모를 쉽게 복사 및 저장 관리할 수 있는 웹 앱)
+
+![홈화면](./img/clipboard-1.png) | ![메모작성](./img/clipboard-2.png) | ![로그인](./img/clipboard-3.png)
+--|--|--|
+
+링크
+
+- 🧑‍💻 [깃허브 코드 및 설명](https://github.com/tony96kimsh/WebClipboard)
+- [🌐 사이트 바로가기](https://tony96kimsh.github.io/WebClipboard/)
+
+기술 스택
+
+- TypeScript
+- React
+- Google OAuth
+- Supabase (Cloud DB, 진행 중)
+- 로컬 스토리지
+
+프로젝트 개요
+
+- 클립보드 기능이 제한적인 환경에서, 복사/붙여넣기 작업이 잦은 QA 업무를 개선하기 위해 제작
+- 노션이나 메모앱과 달리, 빠른 접근과 복사 기능에 특화된 전용 웹 클립보드 앱
+
+주요 기능 
+
+- 메모 클릭 시 자동 복사
+- 폴더로 메모 분류 및 관리
+- 로컬 스토리지 기반 저장
+- Google OAuth를 통한 로그인
+- 로그인 시 Supabase와 메모 동기화 (진행 중)
+
+<br>
 
 ## Daily Article (영어 뉴스 리더 데스크톱 앱)
 
@@ -105,7 +163,8 @@
 
 링크
 
-- 🧑‍💻 [깃허브 코드 및 설명](https://github.com/tony96kimsh/DailyArticle)
+- [🧑‍💻 깃허브 코드 및 설명](https://github.com/tony96kimsh/DailyArticle)
+- [⬇️ 설치 링크](https://github.com/tony96kimsh/DailyArticle/releases)
 
 기술 스택
 
@@ -139,6 +198,7 @@
 링크
 
 - 🧑‍💻 [깃허브 코드 및 설명](https://github.com/tony96kimsh/Auto-Foldering)
+- [⬇️ 설치 링크](https://github.com/tony96kimsh/Auto-Foldering/releases)
 
 기술 스택
 
