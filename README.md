@@ -1,7 +1,7 @@
-# Hello Customer
+# welcome
 
-안녕하세요!  
-*디자인부터 QA, 프론트엔드, 백엔드까지 경험한 개발자 김성훈*입니다.
+안녕하세요
+*디자인부터 QA, 프론트엔드, 백엔드*까지 경험한 개발자 김성훈입니다.
 
 자라홈에서 RFID 시스템을 도입하며 IT에 눈을 뜨고,  
 이후 QA 경험을 바탕으로 사용자 중심의 서비스와 안정적인 개발에 매력을 느껴 개발자로 전향했습니다.
@@ -11,7 +11,7 @@ React 기반의 프론트엔드부터 Node.js API 연동, 그리고 퍼블리싱
 
 <br>
 
-링크
+**소개 링크**
 - [포트폴리오](https://tony96kimsh.github.io/glove/)
 - [이력서](./CV.md)
 
@@ -97,5 +97,5 @@ sentimental|brunch|https://brunch.co.kr/@amory
 <img src="img/SungHoonKim.jpg" width="150">|**김성훈** (96.03.26)<br>010-9626-6393<br>tony96kimsh@gmail.com<br>[포트폴리오](https://tony96kimsh.github.io/glove/)<br>[이력서](https://github.com/tony96kimsh/tony96kimsh/blob/main/CV.md)
 --|--|
 
-> **"동료의 성장은 곧 나의 성장"**  
+> *"동료의 성장은 곧 나의 성장"*  
 > 협업을 통해 함께 성장하는 개발자가 되겠습니다.
